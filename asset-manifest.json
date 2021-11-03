@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yueran-Yu/monsters-rolodex-1/static/css/main.499e92ba.chunk.css",
+    "main.js": "/Yueran-Yu/monsters-rolodex-1/static/js/main.95905e22.chunk.js",
+    "main.js.map": "/Yueran-Yu/monsters-rolodex-1/static/js/main.95905e22.chunk.js.map",
+    "runtime-main.js": "/Yueran-Yu/monsters-rolodex-1/static/js/runtime-main.2c4fb73a.js",
+    "runtime-main.js.map": "/Yueran-Yu/monsters-rolodex-1/static/js/runtime-main.2c4fb73a.js.map",
+    "static/js/2.143b3d53.chunk.js": "/Yueran-Yu/monsters-rolodex-1/static/js/2.143b3d53.chunk.js",
+    "static/js/2.143b3d53.chunk.js.map": "/Yueran-Yu/monsters-rolodex-1/static/js/2.143b3d53.chunk.js.map",
+    "static/js/3.d9f146db.chunk.js": "/Yueran-Yu/monsters-rolodex-1/static/js/3.d9f146db.chunk.js",
+    "static/js/3.d9f146db.chunk.js.map": "/Yueran-Yu/monsters-rolodex-1/static/js/3.d9f146db.chunk.js.map",
+    "index.html": "/Yueran-Yu/monsters-rolodex-1/index.html",
+    "static/css/main.499e92ba.chunk.css.map": "/Yueran-Yu/monsters-rolodex-1/static/css/main.499e92ba.chunk.css.map",
+    "static/js/2.143b3d53.chunk.js.LICENSE.txt": "/Yueran-Yu/monsters-rolodex-1/static/js/2.143b3d53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c4fb73a.js",
+    "static/js/2.143b3d53.chunk.js",
+    "static/css/main.499e92ba.chunk.css",
+    "static/js/main.95905e22.chunk.js"
+  ]
+}
