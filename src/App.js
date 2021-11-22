@@ -54,18 +54,16 @@ const App = () => {
   }, [])
 
   const onChange = (e) => {
-    setSearchField({searchField: e.target.value})
+    setSearchField( e.target.value)
   }
 
-  const filterMonsters = () => {
-    return monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()))
-  }
+  const filterMonsters = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()))
 
   return (
     <div className="App">
       <h1>Monsters Rolodex</h1>
       <SearchBox placeholder='search monsters' handleChange={onChange}/>
-      <CardList monsters={filterMonsters()}/>
+      <CardList monsters={filterMonsters}/>
     </div>
   )
 }
