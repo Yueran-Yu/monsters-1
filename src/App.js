@@ -3,6 +3,7 @@ import {CardList} from "./components/card-list.component";
 import {SearchBox} from "./components/search-box.component";
 import './App.css';
 import axios from "axios";
+import EffectsDemoNoDependency from "./components/EffectsDemoNoDependency";
 
 // class App extends React.Component {
 //   constructor(props) {
